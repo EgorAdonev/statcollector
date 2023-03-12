@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: ru.adonev.statcollector.StatcollectorApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 3, Skipped: 0, Time elapsed: 17.416 s <<< FAILURE! - in ru.adonev.statcollector.StatcollectorApplicationTests
+givenResourcesExist_whenFirstPageIsRetrieved_thenPageContainsResources  Time elapsed: 4.988 s  <<< ERROR!
+java.net.ConnectException: Connection refused: connect
+	at ru.adonev.statcollector.StatcollectorApplicationTests.givenResourcesExist_whenFirstPageIsRetrieved_thenPageContainsResources(StatcollectorApplicationTests.java:34)
+
+whenPageOfResourcesAreRetrievedOutOfBounds_then400IsReceived  Time elapsed: 4.104 s  <<< ERROR!
+java.net.ConnectException: Connection refused: connect
+	at ru.adonev.statcollector.StatcollectorApplicationTests.whenPageOfResourcesAreRetrievedOutOfBounds_then400IsReceived(StatcollectorApplicationTests.java:29)
+
+whenResourcesAreRetrievedPaged_then200IsReceived  Time elapsed: 4.108 s  <<< ERROR!
+java.net.ConnectException: Connection refused: connect
+	at ru.adonev.statcollector.StatcollectorApplicationTests.whenResourcesAreRetrievedPaged_then200IsReceived(StatcollectorApplicationTests.java:22)
+

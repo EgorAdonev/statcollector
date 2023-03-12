@@ -1,0 +1,10 @@
+D:\statcollector\src\main\java\ru\adonev\statcollector\model\EventType.java
+D:\statcollector\src\main\java\ru\adonev\statcollector\repository\EventRepository.java
+D:\statcollector\src\main\java\ru\adonev\statcollector\controller\EventController.java
+D:\statcollector\src\main\java\ru\adonev\statcollector\exception\ExceptionHandler.java
+D:\statcollector\src\main\java\ru\adonev\statcollector\service\EventService.java
+D:\statcollector\src\main\java\ru\adonev\statcollector\exception\StatCollectorError.java
+D:\statcollector\src\main\java\ru\adonev\statcollector\exception\EventException.java
+D:\statcollector\src\main\java\ru\adonev\statcollector\model\Event.java
+D:\statcollector\src\main\java\ru\adonev\statcollector\controller\PaginatedResultsRetrievedEvent.java
+D:\statcollector\src\main\java\ru\adonev\statcollector\StatcollectorApplication.java

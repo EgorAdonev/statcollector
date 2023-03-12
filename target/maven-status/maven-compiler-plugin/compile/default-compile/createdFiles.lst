@@ -1,0 +1,10 @@
+ru\adonev\statcollector\controller\EventController.class
+ru\adonev\statcollector\repository\EventRepository.class
+ru\adonev\statcollector\exception\ExceptionHandler.class
+ru\adonev\statcollector\model\Event.class
+ru\adonev\statcollector\exception\EventException.class
+ru\adonev\statcollector\StatcollectorApplication.class
+ru\adonev\statcollector\controller\PaginatedResultsRetrievedEvent.class
+ru\adonev\statcollector\exception\StatCollectorError.class
+ru\adonev\statcollector\model\EventType.class
+ru\adonev\statcollector\service\EventService.class
